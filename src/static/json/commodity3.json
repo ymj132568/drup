@@ -1,0 +1,56 @@
+[
+	{
+		"id":"11",
+		"name":"手提包 公文包 白领",
+		"imgUrl":"./src/static/images/commodity11.jpg",
+		"newPrice":"69.9",
+		"oldPrice":"99.9",
+		"sold":"162",
+		"reserve":"6499"
+	},
+	{
+		"id":"12",
+		"name":"不掉色 防水口红",
+		"imgUrl":"./src/static/images/commodity12.jpg",
+		"newPrice":"99.9",
+		"oldPrice":"129.9",
+		"sold":"31571",
+		"reserve":"9999"
+	},
+	{
+		"id":"13",
+		"name":"电蚊拍 夏天",
+		"imgUrl":"./src/static/images/commodity13.jpg",
+		"newPrice":"29.9",
+		"oldPrice":"39.9",
+		"sold":"22145",
+		"reserve":"99"
+	},
+	{
+		"id":"14",
+		"name":"挎肩包 真皮 时尚",
+		"imgUrl":"./src/static/images/commodity14.jpg",
+		"newPrice":"199.9",
+		"oldPrice":"219.9",
+		"sold":"4331",
+		"reserve":"69"
+	},
+	{
+		"id":"15",
+		"name":"苹果AiPai 6+128G",
+		"imgUrl":"./src/static/images/commodity15.jpg",
+		"newPrice":"4999",
+		"oldPrice":"5199",
+		"sold":"8052",
+		"reserve":"979"
+	},
+	{
+		"id":"16",
+		"name":"苹果AiPai 4+64G",
+		"imgUrl":"./src/static/images/commodity15.jpg",
+		"newPrice":"4599",
+		"oldPrice":"4899",
+		"sold":"6052",
+		"reserve":"939"
+	}
+]

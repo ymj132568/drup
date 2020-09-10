@@ -1,0 +1,47 @@
+[
+	{
+		"id":"6",
+		"name":"防水 时尚大气，中年人石英表",
+		"imgUrl":"./src/static/images/commodity6.jpg",
+		"newPrice":"699.9",
+		"oldPrice":"899.9",
+		"sold":"62",
+		"reserve":"6599"
+	},
+	{
+		"id":"7",
+		"name":"索尼摄像机",
+		"imgUrl":"./src/static/images/commodity7.jpg",
+		"newPrice":"2999.9",
+		"oldPrice":"3199.9",
+		"sold":"3571",
+		"reserve":"999"
+	},
+	{
+		"id":"8",
+		"name":"2000毫安 聚合物充电宝",
+		"imgUrl":"./src/static/images/commodity8.jpg",
+		"newPrice":"99.9",
+		"oldPrice":"119.9",
+		"sold":"2145",
+		"reserve":"899"
+	},
+	{
+		"id":"9",
+		"name":"真皮钱包，男人的时尚",
+		"imgUrl":"./src/static/images/commodity9.jpg",
+		"newPrice":"199.9",
+		"oldPrice":"269.9",
+		"sold":"431",
+		"reserve":"9999"
+	},
+	{
+		"id":"10",
+		"name":"书包 登山包",
+		"imgUrl":"./src/static/images/commodity10.jpg",
+		"newPrice":"59",
+		"oldPrice":"79.9",
+		"sold":"852",
+		"reserve":"1999"
+	}
+]
